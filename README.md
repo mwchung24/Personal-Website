@@ -1,4 +1,5 @@
 # Portfolio
 
-Visit my Portfolio [Here][google]!
-[google]: www.google.com
+Demo the game [here][word-finder]!
+
+[word-finder]: https://mwchung24.github.io/Word-Finder/
