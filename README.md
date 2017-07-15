@@ -1,4 +1,4 @@
 # Portfolio
 
-Visit my Portfolio [here][martinwchung]
-[martinwchung]: http://www.martinwchung.com/
+Visit my Portfolio [Here][google]!
+[google]: www.google.com
