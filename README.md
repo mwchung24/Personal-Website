@@ -1,5 +1,5 @@
 # Portfolio
 
-Demo the game [here][word-finder]!
+Visit my Portfolio [Here][martinwchung]!
 
-[word-finder]: https://mwchung24.github.io/Word-Finder/
+[martinwchung]: http://www.martinwchung.com/
