@@ -86,6 +86,10 @@
 		margin: 20px;
 	}
 
+	.stormproj {
+		text-transform: none;
+	}
+
 	.selfiegramImage, .wordFinderImage, .stormImage{
 		height: 100px;
 		width: 100px;
