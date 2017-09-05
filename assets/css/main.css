@@ -3022,6 +3022,11 @@
 				flex-direction: column;
 			}
 
+			.aboutme {
+				display: flex;
+				flex-direction: column;
+			}
+
 		/* Section/Article */
 
 			header p {
