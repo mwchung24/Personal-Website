@@ -3031,6 +3031,12 @@
 				flex-direction: column;
 			}
 
+			#main img.contactImage {
+				margin-left: 0;
+				margin: auto;
+				margin-top: 2em;
+			}
+
 		/* Section/Article */
 
 			header p {
