@@ -182,9 +182,14 @@
 			padding-top: 2em;
 		}
 
-		.prudentialLogo, .templeLogo, .getidaLogo {
+		.prudentialLogo, .templeLogo {
 			height: 50%;
 			width: 50%;
+		}
+
+		.getidaLogo {
+			height: 25%;
+			width: 25%;
 		}
 
 		.appacademyLogo {
