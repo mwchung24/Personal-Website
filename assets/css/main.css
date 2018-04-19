@@ -182,7 +182,7 @@
 			padding-top: 2em;
 		}
 
-		.prudentialLogo, .templeLogo {
+		.prudentialLogo, .templeLogo, .getidaLogo {
 			height: 50%;
 			width: 50%;
 		}
@@ -204,11 +204,17 @@
 			padding-top: 2em;
 		}
 
-		.prudentialPosition {
+		.prudentialExperience, .getidaExperience {
+			display: flex;
+			justify-content: space-between;
+			padding-top: 2em;
+		}
+
+		.prudentialPosition, .getidaPosition {
 			font-weight: 700;
 		}
 
-		.experience span {
+		.experience span, .prudentialExperience span, .getidaExperience span {
 			margin-top: 0.75em;
 			width: 40%;
 			text-align: left;
